@@ -23,6 +23,27 @@
     margin-top: 3px;
 }
 
+/* navbar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin: 3px;
+}
+
 /* Footer */
 .footer {
     width: 100%;
